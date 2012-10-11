@@ -1,0 +1,8 @@
+packages
+TestResults
+obj/
+bin/
+*.pdb
+*.dll
+*.suo
+*.db
